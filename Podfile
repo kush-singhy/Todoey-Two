@@ -7,5 +7,6 @@ target 'Todoey-Two' do
 
   # Pods for Todoey-Two
   pod 'RealmSwift'
+  pod 'SwipeCellKit'
 
 end
